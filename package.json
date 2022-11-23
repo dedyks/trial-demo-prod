@@ -19,7 +19,7 @@
   "dependencies": {
     "custom-env": "^2.0.1",
     "express": "^4.17.1",
-    "express-status-monitor": "^1.2.9",
+    "express-status-monitor": "^1.3.4",
     "mongoose-morgan": "^1.0.12",
     "pug": "^2.0.4"
   }
